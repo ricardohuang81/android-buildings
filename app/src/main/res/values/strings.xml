@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">City Guide by Ricky</string>
+    <string name="bridge">Brooklyn Bridge</string>
+    <string name="tower">CN Tower</string>
+    <string name="title_activity_freedom">Freedom Tower</string>
+    <string name="title_activity_101">Taipei 101</string>
+    <string name="title_activity_burj">Burj Khalifa</string>
+    <string name="btnBack">BACK</string>
+</resources>
